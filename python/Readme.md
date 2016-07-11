@@ -11,3 +11,6 @@ Restructuring existing code.
 
 ## Documentation
 Viewing, creating, and searching documentation.
+
+## Code quality support
+Linters, code formatting tools.
